@@ -5,8 +5,13 @@ primary_color_group:
   foreground_color: '#f9f9fb'
   interaction_color: '#2566f2'
 custom_color_groups:
-  - id: f6ad0210-e856-4e5a-9a46-15aa19de7411
+  - id: 6ed27e8f-9363-41bd-af6b-f882f0feb9fc
     name: Secondary
+    background_color: '#1b1b1d'
+    foreground_color: '#d9d9dc'
+    interaction_color: '#2566f2'
+  - id: f6ad0210-e856-4e5a-9a46-15aa19de7411
+    name: Seconday two electric boogaloo
     background_color: '#1b1b1d'
     foreground_color: '#d9d9dc'
     interaction_color: '#2566f2'
@@ -17,4 +22,3 @@ _inputs:
   id:
     hidden: true
     instance_value: UUID
-
